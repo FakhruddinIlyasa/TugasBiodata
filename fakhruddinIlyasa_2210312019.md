@@ -6,9 +6,9 @@
 |2.| NIM        |2210312019       |
 |3. |Link github |  https://github.com/FakhruddinIlyasa    |
 |4.| Link Edabit |   https://edabit.com/user/6Pd6vk2NexEfjQQjHhttps://github.com/FakhruddinIlyasa   |
-|5|Exp Edabit   |  50 XP     |
+|5|Exp Edabit   |  75 XP     |
 |6| Link Codewars|    https://www.codewars.com/users/FakhruddinIlyasa  |
-|7| Level Jyu Codewars| 8 kyu|
+|7| Level Jyu Codewars| 7 kyu|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
